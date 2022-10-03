@@ -9,14 +9,22 @@ body{
     background-color: rgba(187, 245, 245, 0.938);
 }
 div{
-    border: 2px solid black;
+    border: 2px solid black;  
     
-    
+}
+
+.ana{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .maincon{
     height: 800px;
     width: 800px;
     display: flex;
+    
 }
 
 .left{
